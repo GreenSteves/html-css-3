@@ -1,0 +1,24 @@
+h1 {
+  color: white;
+  background-color: blue;
+}
+
+h2 {
+  color: purple;
+}
+
+h3 {
+  color: green;
+}
+
+p {
+  color: blue;
+}
+
+a {
+  color: red;
+}
+
+button {
+  background-color: yellow;
+}
